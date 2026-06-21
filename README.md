@@ -29,8 +29,8 @@ Nhằm khắc phục nhược điểm "quá đơn giản" của Hồi quy tuyế
 - **Lasso Regression (Chuẩn L1):** Tự động đưa trọng số của các đặc trưng nhiễu hoặc kém quan trọng về 0, thực hiện chức năng chọn lọc đặc trưng (Feature Selection).
 
 ## Kết quả thực nghiệm
-- **Mô hình cơ bản:** Đạt điểm $R^2 \\approx 0.64$ và RMSE $\\approx 68,938$.
-- **Mô hình nâng cấp:** Sau khi áp dụng tối đa các kỹ thuật Feature Engineering và Polynomial/Regularization, điểm số trên tập huấn luyện đã tăng lên $\\approx 0.658$, chứng minh mô hình đã tiếp thu được các mối quan hệ phức tạp hơn trong dữ liệu.
+- **Mô hình cơ bản:** Đạt điểm $R^2 \\approx 0.68$ và RMSE $\\approx 55634.23$.
+- **Mô hình nâng cấp:** Sau khi áp dụng tối đa các kỹ thuật Feature Engineering và Polynomial/Regularization, điểm số trên tập huấn luyện đã tăng lên $\\approx 0.7412$, chứng minh mô hình đã tiếp thu được các mối quan hệ phức tạp hơn trong dữ liệu.
 
 ## Hướng dẫn cài đặt và sử dụng
 
